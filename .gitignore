@@ -1,0 +1,17 @@
+# .gitignore for PHP Project
+
+# Ignore vendor directory
+vendor/
+
+# Ignore node_modules directory
+node_modules/
+
+# Ignore environment variables file
+.env
+
+# Ignore uploads directory
+uploads/
+
+# Ignore cache and log files
+*.log
+cache/
